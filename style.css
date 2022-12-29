@@ -1,0 +1,46 @@
+body{
+  background: #83c5be;
+}
+
+p{
+  background-color: #e29578;
+  border-radius: 12px;
+  font-size: 16px;
+  text-align:center;
+  width: 10%;
+  color:white;
+}
+
+input{
+  color:#black;
+}
+
+a{
+  padding:20px 0px;
+  color:white
+}
+
+div{
+  color:white;
+  font-size: 20px;
+}
+
+
+button {
+  background-color: #e29578;
+  border-radius: 12px;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+  padding: 10px 15px;
+  text-align: center;
+  transition: 200ms;
+  width: 20%;
+  box-sizing: border-box;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
